@@ -26,9 +26,9 @@
       </p>
 </details>   
 
-### 2) Classification Problems
-### 3) Clustering Problems
+### 2 Classification Problems
+### 3 Clustering Problems
 
-## The project status: Ongoing
+#### Project status: Ongoing
 
 [BACK TO TOP](#Types-of-Data-science-Problem)

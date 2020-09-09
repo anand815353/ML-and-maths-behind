@@ -1,5 +1,5 @@
 # ML-and-maths-behind
-ML algorithms in python from scratch(wherever possible) and scikit-learn and including not too much Maths just enough to be called Simple. 
+##### ML algorithms in python from scratch(wherever possible) and scikit-learn and including not too much Maths just enough to be called Simple. 
 
 Types of Data science Problem
     1) Regression Problems

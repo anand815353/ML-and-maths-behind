@@ -8,10 +8,7 @@
 
 
 ### 1 Regression Problems
-<details>
-<summary>
-<H4>Part-1: linear regression from scratch and math behind it.</H4>  
-   </summary>
+<details><summary>Part-1: linear regression from scratch and math behind it.</H4></summary>
       <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Intro to ML and Data Science approch  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Model Representation  <br />

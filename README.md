@@ -4,7 +4,7 @@ ML algorithms in python from scratch(wherever possible) and scikit-learn and inc
 Types of Data science Problem
     1) Regression Problems
           Part 1: linear regression from scratch and math behind it.
-                  Covers:
+                  Section Covers:
                     Intro to ML and Data Science approch
                     Model Representation
                     Simple linear regression

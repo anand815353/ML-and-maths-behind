@@ -2,12 +2,12 @@
 ### ML algorithms in python from scratch(wherever possible) and scikit-learn and including not too much Maths just enough to be called Simple. 
 
 ### Types of Data science Problem
-* [1) Regression Problems](#1)
-* [2) Classification Problems](#2)
-* [3) Clustering Problems](#3)
+* [1) Regression Problems](#1-Regression-Problems)
+* [2) Classification Problems](#2-Classification-Problems)
+* [3) Clustering Problems](#3-Clustering-Problems)
 
 
-### 1) Regression Problems
+### 1 Regression Problems
 #### &nbsp;&nbsp; Part-1: linear regression from scratch and math behind it.
    <details><summary> &nbsp;&nbsp;&nbsp;&nbsp; Section Covers:</summary>
           <p> 
